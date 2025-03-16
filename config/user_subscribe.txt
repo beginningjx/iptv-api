@@ -2,7 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://freetv.fun/test_channels_china_new.m3u
-https://gitee.com/lixiao-1-98/iptv/raw/master/ipv4.txt
+https://gitee.com/lixiao-1-98/iptv/raw/master/ipv4.m3u
 https://a.lqtv.top/m3u/tv.m3u
 https://live.hacks.tools/tv/iptv4.m3u
 http://aktv.top/live.m3u

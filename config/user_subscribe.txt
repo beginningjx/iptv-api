@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://iptv.kaiduan.fun/tv.m3u
 https://freetv.fun/test_channels_china_new.m3u
 https://gitee.com/lixiao-1-98/iptv/raw/master/ipv4.m3u
 https://a.lqtv.top/m3u/tv.m3u

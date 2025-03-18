@@ -4,3 +4,4 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 https://iptv.kaiduan.fun/tv.m3u
+CCTV1,http://39.134.65.198/PLTV/88888888/224/3221225816/1.m3u8

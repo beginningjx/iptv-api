@@ -1,4 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://api.kaiduan.fun/php/static/txt/tv.txt
+https://gitee.com/wuxiyihu/IPTV/raw/master/IPTV
+https://gitee.com/Jingxh/tvbox/raw/master/mytv.txt
+https://freetv.fun/test_channels_china_new.m3u
+https://gitee.com/lixiao-1-98/iptv/raw/master/ipv4.txt
+https://live.zbds.org/tv/iptv4.txt
+https://live.hacks.tools/tv/iptv4.m3u
+https://live.kilvn.com/iptv.m3u
+https://live.iptv365.org/live.m3u
+http://47.120.41.246:8899/zb.txt
+https://ghproxy.cfd/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://ghproxy.cfd/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://ghproxy.cfd/https://raw.githubusercontent.com/qaz1371041/tiaoshi/refs/heads/main/tv
+https://ghproxy.cfd/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-11 18:14:16,http://home.yulei.online:9999/rtp/226.0.2.153:9136
+2025-09-12 06:13:51,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 
 央视频道,#genre#
 CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
@@ -66,8 +66,8 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 
 卫视频道,#genre#
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.65:5140
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.32:1025
 浙江卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.64:5140
 浙江卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.29:1025
@@ -76,8 +76,8 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 安徽卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.127:1025
 安徽卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.157:1025
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.66:5140
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.33:1025
 广东卫视,http://171.15.18.199:8180/TV00000000000000000031@HHZT
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
@@ -99,12 +99,12 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 东方卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.28:1025
 东方卫视,http://171.15.18.199:8180/TV00000000000000000021@HHZT
 东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.182:5140
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.114:1025
 东南卫视,http://171.15.18.199:8180/TV00000000000000000033@HHZT
-甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 甘肃卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.88:5140
+甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 甘肃卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.111:1025
 甘肃卫视,http://home.yulei.online:9999/rtp/226.0.2.55:8352
 广西卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.14:5140
@@ -113,7 +113,6 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 贵州卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.178:5140
 贵州卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.46:1025
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
-贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8
 海南卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.50:5140
 海南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.190:1025
 海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT
@@ -124,13 +123,13 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.180:5140
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.61:1025
 河南卫视,http://171.15.18.199:8180/TV00000000000000000016@HHZT
 河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8
-吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.183:5140
+吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.109:1025
 吉林卫视,http://171.15.18.199:8180/TV00000000000000000036@HHZT
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
@@ -155,8 +154,8 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 青海卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.53:5140
 青海卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.62:1025
 青海卫视,http://home.yulei.online:9999/rtp/226.0.2.59:8384
-山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.70:5140
+山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.37:1025
 山东卫视,http://171.15.18.199:8180/TV00000000000000000024@HHZT
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-17 06:12:09,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
+2025-10-17 18:14:47,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
 
 央视频道,#genre#
 CCTV1,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
@@ -92,39 +92,38 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 宁夏卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.58:1025
 宁夏卫视,http://home.yulei.online:9999/rtp/226.0.2.64:8424
 青海卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.62:1025
-青海卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.53:5140
 青海卫视,http://home.yulei.online:9999/rtp/226.0.2.59:8384
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.70:5140
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 山东卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.37:1025
 山东卫视,http://171.15.18.199:8180/TV00000000000000000024@HHZT
-山东卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.70:5140
+山西卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.39:5140
 山西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.110:1025
 山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT
-山西卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.39:5140
+陕西卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.35:5140
 陕西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.40:1025
 陕西卫视,http://171.15.18.199:8180/TV00000000000000000039@HHZT
-陕西卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.35:5140
 陕西卫视,http://home.yulei.online:9999/rtp/226.0.2.53:8336
+四川卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.184:5140
 四川卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.160:1025
 四川卫视,http://171.15.18.199:8180/TV00000000000000000040@HHZT
-四川卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.184:5140
 深圳卫视,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
 深圳卫视,http://171.15.18.199:8180/TV00000000000000000026@HHZT
 三沙卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.191:1025
+天津卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.74:5140
 天津卫视,http://drive.mxmy.net:8888/udp/239.3.1.141:1234
 天津卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.67:1025
 天津卫视,http://171.15.18.199:8180/TV00000000000000000022@HHZT
-天津卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.74:5140
-西藏卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.115:1025
 西藏卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.54:5140
+西藏卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.115:1025
 西藏卫视,http://home.yulei.online:9999/rtp/226.0.2.66:8440
-新疆卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.113:1025
 新疆卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.56:5140
+新疆卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.113:1025
 新疆卫视,http://home.yulei.online:9999/rtp/226.0.2.67:8448
+云南卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.106:5140
 云南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.63:1025
 云南卫视,http://171.15.18.199:8180/TV00000000000000000034@HHZT
-云南卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.106:5140
 云南卫视,http://home.yulei.online:9999/rtp/226.0.2.60:8392
 兵团卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.114:1025
 兵团卫视,http://home.yulei.online:9999/rtp/226.0.2.62:8408

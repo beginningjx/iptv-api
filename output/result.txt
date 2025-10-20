@@ -1,17 +1,16 @@
 🕘️更新时间,#genre#
-2025-10-20 06:13:23,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
+2025-10-20 18:15:13,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
 
 央视频道,#genre#
 CCTV1,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
-CCTV2,http://124.88.238.50:82/hls/2/index.m3u8
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV4,http://124.88.238.50:82/hls/4/index.m3u8
 CCTV5,http://124.88.238.50:82/hls/5/index.m3u8
 CCTV7,http://124.88.238.50:82/hls/7/index.m3u8
 CCTV8,http://drive.mxmy.net:8888/udp/239.3.1.175:8001
 CCTV11,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.21:1025
-CCTV11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 CCTV11,http://124.88.238.50:82/hls/10/index.m3u8
+CCTV11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 CCTV12,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.64:1025
 CCTV12,http://drive.mxmy.net:8888/udp/239.3.1.64:8124
 CCTV13,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.23:1025
@@ -29,12 +28,11 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 浙江卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.29:1025
 安徽卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.127:1025
 安徽卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.157:1025
-安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 安徽卫视,http://124.88.238.50:82/hls/18/index.m3u8
+安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.33:1025
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
-广东卫视,http://171.15.18.199:8180/TV00000000000000000031@HHZT
 湖南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.31:1025
 湖南卫视,http://171.15.18.199:8180/TV00000000000000000018@HHZT
 湖北卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.36:1025
@@ -46,8 +44,8 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 重庆卫视,http://171.15.18.199:8180/TV00000000000000000030@HHZT
 东方卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.28:1025
-东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 东方卫视,http://124.88.238.50:82/hls/15/index.m3u8
+东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 东方卫视,http://171.15.18.199:8180/TV00000000000000000021@HHZT
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.114:1025
@@ -84,7 +82,6 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.37:1025
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
-山东卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.70:5140
 山东卫视,http://171.15.18.199:8180/TV00000000000000000024@HHZT
 山西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.110:1025
 山西卫视,http://www.stoneshi1984.ren:58120/rtp/239.111.205.39:5140

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-04 18:16:08,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
+2025-11-05 06:11:58,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
 
 央视频道,#genre#
 CCTV1,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
@@ -30,6 +30,7 @@ CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
 广东卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.33:1025
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.31:1025
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
 湖北卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.36:1025
@@ -40,10 +41,9 @@ CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 东方卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.28:1025
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.114:1025
-甘肃卫视,http://home.yulei.online:9999/rtp/226.0.2.55:8352
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+甘肃卫视,http://home.yulei.online:9999/rtp/226.0.2.55:8352
 甘肃卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.111:1025
-甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
 广西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.50:1025
 广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076

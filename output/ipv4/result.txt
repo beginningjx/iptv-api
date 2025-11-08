@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-08 18:12:52,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
+2025-11-09 06:12:23,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
 
 央视频道,#genre#
 CCTV1,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
@@ -57,7 +57,6 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 吉林卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.109:1025
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
 江苏卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.30:1025
-江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
 江西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.69:1025
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164
 辽宁卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.68:1025
@@ -92,7 +91,6 @@ CCTV17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 新疆卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.113:1025
 新疆卫视,http://home.yulei.online:9999/rtp/226.0.2.67:8448
 云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
-云南卫视,http://pa.kuangdeng.top:8081/hls/46/index.m3u8
 云南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.63:1025
 云南卫视,http://home.yulei.online:9999/rtp/226.0.2.60:8392
 兵团卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.114:1025

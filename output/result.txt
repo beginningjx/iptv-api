@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-09 18:12:32,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
+2025-11-10 06:12:31,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
 
 央视频道,#genre#
 CCTV1,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
@@ -61,7 +61,6 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 江西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.69:1025
 辽宁卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.68:1025
 内蒙古卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.112:1025
-内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
 内蒙古卫视,http://home.yulei.online:9999/rtp/226.0.2.63:8416
 宁夏卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.58:1025
 宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8

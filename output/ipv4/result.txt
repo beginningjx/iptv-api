@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 06:12:58,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
+2025-11-15 18:12:48,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
 
 央视频道,#genre#
 CCTV1,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
@@ -9,11 +9,11 @@ CCTV12,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.64:1025
 CCTV13,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.23:1025
 CCTV14,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.65:1025
 CCTV15,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.25:1025
-CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV16,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.135:1025
 CCTV16,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.136:1025
-CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
+CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
+CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 
 卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -32,8 +32,8 @@ CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.114:1025
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-甘肃卫视,http://home.yulei.online:9999/rtp/226.0.2.55:8352
 甘肃卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.111:1025
+甘肃卫视,http://home.yulei.online:9999/rtp/226.0.2.55:8352
 广西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.50:1025
 贵州卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.46:1025
 海南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.190:1025
@@ -46,25 +46,25 @@ CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 江苏卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.30:1025
 江西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.69:1025
 辽宁卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.68:1025
-内蒙古卫视,http://home.yulei.online:9999/rtp/226.0.2.63:8416
 内蒙古卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.112:1025
-宁夏卫视,http://home.yulei.online:9999/rtp/226.0.2.64:8424
+内蒙古卫视,http://home.yulei.online:9999/rtp/226.0.2.63:8416
 宁夏卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.58:1025
-青海卫视,http://home.yulei.online:9999/rtp/226.0.2.59:8384
+宁夏卫视,http://home.yulei.online:9999/rtp/226.0.2.64:8424
 青海卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.62:1025
+青海卫视,http://home.yulei.online:9999/rtp/226.0.2.59:8384
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.37:1025
 山西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.110:1025
-陕西卫视,http://home.yulei.online:9999/rtp/226.0.2.53:8336
 陕西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.40:1025
+陕西卫视,http://home.yulei.online:9999/rtp/226.0.2.53:8336
 四川卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.160:1025
 三沙卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.191:1025
 天津卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.67:1025
-西藏卫视,http://home.yulei.online:9999/rtp/226.0.2.66:8440
 西藏卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.115:1025
-新疆卫视,http://home.yulei.online:9999/rtp/226.0.2.67:8448
+西藏卫视,http://home.yulei.online:9999/rtp/226.0.2.66:8440
 新疆卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.113:1025
-云南卫视,http://home.yulei.online:9999/rtp/226.0.2.60:8392
+新疆卫视,http://home.yulei.online:9999/rtp/226.0.2.67:8448
 云南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.63:1025
-兵团卫视,http://home.yulei.online:9999/rtp/226.0.2.62:8408
+云南卫视,http://home.yulei.online:9999/rtp/226.0.2.60:8392
 兵团卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.114:1025
+兵团卫视,http://home.yulei.online:9999/rtp/226.0.2.62:8408

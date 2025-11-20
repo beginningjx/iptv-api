@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-20 18:15:20,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
+2025-11-21 06:13:41,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 央视频道,#genre#
+CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV1,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.27:1025
 CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
-CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV11,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.21:1025
 CCTV12,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.64:1025
 CCTV13,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.23:1025
@@ -69,4 +69,3 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 云南卫视,http://home.yulei.online:9999/rtp/226.0.2.60:8392
 兵团卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.114:1025
 兵团卫视,http://home.yulei.online:9999/rtp/226.0.2.62:8408
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0

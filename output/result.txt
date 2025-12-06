@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-12-06 06:13:20,http://home.yulei.online:9999/rtp/226.0.2.153:9136
+2025-12-06 18:13:57,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 央视频道,#genre#
-CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
-CCTV15,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.25:1025
+CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV16,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.135:1025
 CCTV16,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.136:1025
@@ -26,7 +25,6 @@ CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 重庆卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.159:1025
 东方卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.28:1025
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://60.13.52.236:65500/newlive/live/hls/35/live.m3u8
 东南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.114:1025
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 甘肃卫视,http://home.yulei.online:9999/rtp/226.0.2.55:8352
@@ -39,8 +37,8 @@ CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 海南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.190:1025
 河北卫视,http://60.13.52.236:65500/newlive/live/hls/34/live.m3u8
 河北卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.59:1025
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8
 河南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.61:1025
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8

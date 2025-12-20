@@ -1,18 +1,11 @@
 🕘️更新时间,#genre#
-2025-12-20 18:17:51,http://ygbh.site/php/bfgd.php?id=484
+2025-12-21 06:12:52,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 央视频道,#genre#
-CCTV1,http://ygbh.site/php/bfgd.php?id=484
-CCTV1,http://ygbh.site/php/bfgd.php?id=488
-CCTV1,http://ygbh.site/php/bfgd.php?id=489
-CCTV1,http://ygbh.site/php/bfgd.php?id=201
-CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
-CCTV1,http://8.134.110.147:5300/?id=cctv1
-CCTV1,http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
-CCTV1,http://sh.lnott.top:880/dx01.m3u8
-CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
+CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
+CCTV16,http://dms.yryyj.site:8188/udp/239.76.246.98:1234
 CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 
 卫视频道,#genre#
@@ -24,6 +17,7 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+辽宁卫视,http://123.130.84.106:8154/tsfile/live/0121_1.m3u8
 内蒙古卫视,http://home.yulei.online:9999/rtp/226.0.2.63:8416
 宁夏卫视,http://home.yulei.online:9999/rtp/226.0.2.64:8424
 青海卫视,http://home.yulei.online:9999/rtp/226.0.2.59:8384

@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-12-21 06:12:52,http://171.15.18.199:8180/TV00000000000000000001@HHZT
+2025-12-21 18:14:19,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 央视频道,#genre#
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
-CCTV16,http://dms.yryyj.site:8188/udp/239.76.246.98:1234
 CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 
 卫视频道,#genre#
@@ -17,12 +16,10 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-辽宁卫视,http://123.130.84.106:8154/tsfile/live/0121_1.m3u8
 内蒙古卫视,http://home.yulei.online:9999/rtp/226.0.2.63:8416
 宁夏卫视,http://home.yulei.online:9999/rtp/226.0.2.64:8424
 青海卫视,http://home.yulei.online:9999/rtp/226.0.2.59:8384
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.110:1025
 陕西卫视,http://home.yulei.online:9999/rtp/226.0.2.53:8336
 陕西卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.40:1025
 四川卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.160:1025

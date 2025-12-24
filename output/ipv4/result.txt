@@ -1,16 +1,13 @@
 🕘️更新时间,#genre#
-2025-12-24 18:15:55,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
+2025-12-25 06:14:31,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 央视频道,#genre#
-CCTV1,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
-CCTV1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
 CCTV2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8
 CCTV3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8
 CCTV4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8
 CCTV5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8
-CCTV5+,http://120.211.62.180:8000/hls/18/index.m3u8
 CCTV6,http://175.8.28.207:9999/tsfile/live/0006_1.m3u8
 CCTV7,http://120.211.62.180:8000/hls/7/index.m3u8
 CCTV7,http://175.8.28.207:9999/tsfile/live/0007_1.m3u8
@@ -28,7 +25,6 @@ CCTV13,http://175.8.28.207:9999/tsfile/live/0013_1.m3u8
 CCTV14,http://120.211.62.180:8000/hls/14/index.m3u8
 CCTV14,http://175.8.28.207:9999/tsfile/live/0014_1.m3u8
 CCTV15,http://120.211.62.180:8000/hls/15/index.m3u8
-CCTV15,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 CCTV17,http://120.211.62.180:8000/hls/17/index.m3u8
@@ -42,7 +38,6 @@ CCTV17,http://120.211.62.180:8000/hls/17/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 甘肃卫视,http://home.yulei.online:9999/rtp/226.0.2.55:8352
-广西卫视,http://hmfs.f3322.net:3388/hls/27/index.m3u8
 河北卫视,http://120.211.62.180:8000/hls/19/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -62,6 +57,5 @@ CCTV17,http://120.211.62.180:8000/hls/17/index.m3u8
 新疆卫视,http://home.yulei.online:9999/rtp/226.0.2.67:8448
 云南卫视,http://home.yulei.online:9999/rtp/226.0.2.60:8392
 云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8
-云南卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.63:1025
 兵团卫视,http://home.yulei.online:9999/rtp/226.0.2.62:8408
 兵团卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.114:1025

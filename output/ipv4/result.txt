@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-12-26 06:13:54,http://home.yulei.online:9999/rtp/226.0.2.153:9136
+2025-12-26 18:15:25,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 
 央视频道,#genre#
 CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
-CCTV10,http://120.211.62.180:8000/hls/10/index.m3u8
 CCTV11,http://120.211.62.180:8000/hls/11/index.m3u8
 CCTV12,http://120.211.62.180:8000/hls/12/index.m3u8
 CCTV13,http://120.211.62.180:8000/hls/13/index.m3u8

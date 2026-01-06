@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-06 06:14:25,http://home.yulei.online:9999/rtp/226.0.2.153:9136
+2026-01-06 18:16:22,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 
 央视频道,#genre#
 CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
@@ -42,7 +42,6 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 深圳卫视,http://39.152.103.17:8089/tsfile/live/1049_1.m3u8
 天津卫视,http://39.152.103.17:8089/tsfile/live/1035_1.m3u8
 西藏卫视,http://home.yulei.online:9999/rtp/226.0.2.66:8440
-西藏卫视,http://btjg.net:809/hls/140/index.m3u8
 新疆卫视,http://home.yulei.online:9999/rtp/226.0.2.67:8448
 云南卫视,http://home.yulei.online:9999/rtp/226.0.2.60:8392
 云南卫视,http://btjg.net:809/hls/53/index.m3u8

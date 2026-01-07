@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-07 18:16:59,http://home.yulei.online:9999/rtp/226.0.2.153:9136
+2026-01-08 06:14:18,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 
 央视频道,#genre#
 CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
-CCTV11,http://39.152.103.17:8089/tsfile/live/1010_1.m3u8
 CCTV12,http://39.152.103.17:8089/tsfile/live/1011_1.m3u8
 CCTV14,http://39.152.103.17:8089/tsfile/live/1013_1.m3u8
 CCTV15,http://39.152.103.17:8089/tsfile/live/1014_1.m3u8
@@ -12,10 +11,10 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 
 卫视频道,#genre#
 北京卫视,http://39.152.103.17:8089/tsfile/live/1034_1.m3u8
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://39.152.103.17:8089/tsfile/live/1042_1.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖南卫视,http://39.152.103.17:8089/tsfile/live/1040_1.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 黑龙江卫视,http://39.152.103.17:8089/tsfile/live/1055_1.m3u8
 重庆卫视,http://39.152.103.17:8089/tsfile/live/1048_1.m3u8
 东方卫视,http://39.152.103.17:8089/tsfile/live/1036_1.m3u8

@@ -1,38 +1,33 @@
 🕘️更新时间,#genre#
-2026-01-09 06:15:40,http://home.yulei.online:9999/rtp/226.0.2.153:9136
+2026-01-09 18:16:33,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 
 央视频道,#genre#
 CCTV1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV5,http://69.30.246.194/live/cctv5p.m3u8
+CCTV5,http://183.7.172.224:8888/hls/21/index.m3u8
 CCTV7,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
-CCTV7,http://btjg.net:809/hls/7/index.m3u8
 CCTV8,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
-CCTV14,http://39.152.103.17:8089/tsfile/live/1013_1.m3u8
 CCTV15,http://39.152.103.17:8089/tsfile/live/1014_1.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV16,http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
-CCTV16,http://hmfs.f3322.net:3388/hls/36/index.m3u8
 CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 
 卫视频道,#genre#
 北京卫视,http://39.152.103.17:8089/tsfile/live/1034_1.m3u8
+浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
-浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://39.152.103.17:8089/tsfile/live/1037_1.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 安徽卫视,http://39.152.103.17:8089/tsfile/live/1039_1.m3u8
 安徽卫视,http://btjg.net:809/hls/42/index.m3u8
-安徽卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/29/index.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://39.152.103.17:8089/tsfile/live/1042_1.m3u8
-广东卫视,http://183.7.172.224:8888/hls/1/index.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://39.152.103.17:8089/tsfile/live/1040_1.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 湖北卫视,http://btjg.net:809/hls/31/index.m3u8
@@ -54,10 +49,8 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://39.152.103.17:8089/tsfile/live/1077_1.m3u8
 广西卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/39/index.m3u8
-广西卫视,http://shijiazhuangjingshi-12.synology.me:8092/hls/39/index.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
-贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 贵州卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/40/index.m3u8
 海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
@@ -67,6 +60,7 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 河南卫视,http://23.237.228.134/live6/henan.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://39.152.103.17:8089/tsfile/live/1080_1.m3u8
+河南卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/28/index.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/44/index.m3u8
@@ -89,20 +83,19 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://39.152.103.17:8089/tsfile/live/1018_1.m3u8
 山东卫视,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
+山东卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/27/index.m3u8
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 山西卫视,http://23.237.228.134/live8/shanxiws.m3u8
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 陕西卫视,http://home.yulei.online:9999/rtp/226.0.2.53:8336
 陕西卫视,http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://39.152.103.17:8089/tsfile/live/1049_1.m3u8
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
 天津卫视,http://39.152.103.17:8089/tsfile/live/1035_1.m3u8
 天津卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/25/index.m3u8

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-05 18:33:48,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-06 06:19:34,http://23.237.228.134/live5/CCTV1.m3u8
 
 央视频道,#genre#
 CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -8,7 +8,6 @@ CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV2,http://171.118.111.85:9003/hls/2/index.m3u8
 CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV3,http://171.118.111.85:9003/hls/3/index.m3u8
-CCTV3,http://1.24.39.180:9003/hls/3/index.m3u8
 CCTV4,http://171.118.111.85:9003/hls/4/index.m3u8
 CCTV4,http://1.24.39.180:9003/hls/4/index.m3u8
 CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
@@ -63,11 +62,11 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://171.118.111.85:9003/hls/26/index.m3u8
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://171.118.111.85:9003/hls/33/index.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 湖北卫视,http://171.118.111.85:9003/hls/32/index.m3u8
 黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
@@ -110,26 +109,26 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 青海卫视,http://home.yulei.online:9999/rtp/226.0.2.59:8384
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://171.118.111.85:9003/hls/41/index.m3u8
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 山西卫视,http://23.237.228.134/live8/shanxiws.m3u8
 山西卫视,http://171.118.111.85:9003/hls/19/index.m3u8
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 陕西卫视,http://171.118.111.85:9003/hls/42/index.m3u8
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://home.yulei.online:9999/rtp/226.0.2.53:8336
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 四川卫视,http://171.118.111.85:9003/hls/44/index.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://171.118.111.85:9003/hls/43/index.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
 天津卫视,http://171.118.111.85:9003/hls/45/index.m3u8
-天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
 西藏卫视,http://171.118.111.85:9003/hls/46/index.m3u8
 西藏卫视,http://home.yulei.online:9999/rtp/226.0.2.66:8440
-新疆卫视,http://171.118.111.85:9003/hls/47/index.m3u8
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+新疆卫视,http://171.118.111.85:9003/hls/47/index.m3u8
 新疆卫视,http://home.yulei.online:9999/rtp/226.0.2.67:8448
 云南卫视,http://23.237.228.134/live8/yunnan.m3u8
 云南卫视,http://171.118.111.85:9003/hls/48/index.m3u8

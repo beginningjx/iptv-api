@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-06 06:19:34,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-06 18:32:02,http://23.237.228.134/live5/CCTV1.m3u8
 
 央视频道,#genre#
 CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -9,7 +9,6 @@ CCTV2,http://171.118.111.85:9003/hls/2/index.m3u8
 CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV3,http://171.118.111.85:9003/hls/3/index.m3u8
 CCTV4,http://171.118.111.85:9003/hls/4/index.m3u8
-CCTV4,http://1.24.39.180:9003/hls/4/index.m3u8
 CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV5+,http://171.118.111.85:9003/hls/6/index.m3u8
 CCTV6,http://171.118.111.85:9003/hls/7/index.m3u8
@@ -27,34 +26,34 @@ CCTV10,http://171.118.111.85:9003/hls/11/index.m3u8
 CCTV11,http://69.30.246.194/live/cctv11.m3u8
 CCTV11,http://171.118.111.85:9003/hls/12/index.m3u8
 CCTV11,http://1.24.39.180:9003/hls/11/index.m3u8
-CCTV12,http://69.30.246.194/live/cctv12.m3u8
 CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
+CCTV12,http://69.30.246.194/live/cctv12.m3u8
 CCTV12,http://171.118.111.85:9003/hls/13/index.m3u8
 CCTV13,http://171.118.111.85:9003/hls/14/index.m3u8
 CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8
-CCTV14,http://69.30.246.194/live/cctv14.m3u8
 CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
+CCTV14,http://69.30.246.194/live/cctv14.m3u8
 CCTV14,http://171.118.111.85:9003/hls/15/index.m3u8
 CCTV14,http://1.24.39.180:9003/hls/14/index.m3u8
-CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
+CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV15,http://171.118.111.85:9003/hls/16/index.m3u8
-CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV16,http://171.118.111.85:9003/hls/17/index.m3u8
-CCTV16,http://1.24.39.180:9003/hls/60/index.m3u8
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
+CCTV16,http://1.24.39.180:9003/hls/60/index.m3u8
 CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
 CCTV17,http://171.118.111.85:9003/hls/18/index.m3u8
-CCTV17,http://1.24.39.180:9003/hls/61/index.m3u8
 CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
+CCTV17,http://1.24.39.180:9003/hls/61/index.m3u8
 
 卫视频道,#genre#
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
 北京卫视,http://171.118.111.85:9003/hls/20/index.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
-浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://171.118.111.85:9003/hls/49/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
@@ -62,18 +61,18 @@ CCTV17,http://home.yulei.online:9999/rtp/226.0.2.170:9272
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://171.118.111.85:9003/hls/26/index.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://171.118.111.85:9003/hls/33/index.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://69.30.246.194/live/hnws.m3u8
+湖南卫视,http://171.118.111.85:9003/hls/33/index.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 湖北卫视,http://171.118.111.85:9003/hls/32/index.m3u8
 黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
 黑龙江卫视,http://171.118.111.85:9003/hls/31/index.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://171.118.111.85:9003/hls/23/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8

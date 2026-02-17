@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 18:39:11,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-18 06:24:07,http://23.237.228.134/live5/CCTV1.m3u8
 
 央视频道,#genre#
 CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -10,32 +10,33 @@ CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
 CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
-CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV12,http://69.30.246.194/live/cctv12.m3u8
-CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
+CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV14,http://69.30.246.194/live/cctv14.m3u8
-CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
+CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
 CCTV15,http://69.30.246.194/live/cctv15.m3u8
+CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
+CCTV17,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
+东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
